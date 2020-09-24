@@ -145,7 +145,7 @@ void volumen(float x, float y){
 	result2 = result*y;
 	fprintf(fd,"\nAhora para el Volumen, se multiplica el Area por la altura o longitud.");
 	fprintf(fd,"\nEjemplo: (%.2f)(%.2f) = %.3f\n",result,y,result2);
-	fprintf(fd,"\n\n\n\n\nCodigo Fuente: ");
+	fprintf(fd,"\n\n\n\n\nCodigo Fuente: https://github.com/Nekukun97/Circulos-y-Cilindros");
 	fclose(fd);
 	 
 	printf("\nVolumen: %.3f",result2);
@@ -155,7 +155,7 @@ int salir(){
 	char letra;
 	
 	fflush(stdin);
-	printf("\n\n¿Desea Continuar? (S/N): ");
+	printf("\n\nÂ¿Desea Continuar? (S/N): ");
 	scanf("%c",&letra);
 	
 	if(letra=='S' || letra=='s'){
