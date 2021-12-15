@@ -1,2 +1,2 @@
 # Circulos-y-Cilindros
-Programa simple que obtiene las partes del circulo (Diámetro, Circunferencia, Área, Volumen) a partir del Radio.
+Programa simple que obtiene las medidas del circulo/cilindro (Diámetro, Circunferencia, Área, Volumen) a partir del Radio.
